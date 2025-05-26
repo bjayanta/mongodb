@@ -6,8 +6,8 @@ MongoDB is a source-available, cross-platform, document-oriented database progra
 
 1. Setup & Installation
 2. Create Database & Collections
-3. InsertOne() & InsertMany()
-4. Find() & FindOne()
+3. InsertOne & InsertMany
+4. Find & FindOne
 5. Delete Database use Drop()
 6. DeleteOne() & DeleteMany()
 7. Import & Export
